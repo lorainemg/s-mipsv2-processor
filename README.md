@@ -5,3 +5,4 @@ S-MIPSv2 is a 32-bit architecture. The processor has 32 general purpose 32-bit r
 
 The processor must be implemented on the S-MIPS module of the supplied S-MIPS Board. You must not modify the RAM circuit or the S-MIPS Board circuit. These will be used during the evaluation of the circuits.
 
+More information about S-MIPSv2 instructions can be found in [instruciones.xlsx](https://github.com/lorainemg/s-mipsv2-processor/blob/main/doc/instruciones.xlsx), a more detailed document is available at [s-mipsv2.pdf](https://github.com/lorainemg/s-mipsv2-processor/blob/main/doc/s-mipsv2.pdf).
